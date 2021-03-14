@@ -21,22 +21,22 @@ html {
 
 /* Images used */
 .img1 {
-  background-image: url("https://source.unsplash.com/1600x900/?nature,water");
+  background-image: url("https://source.unsplash.com/daily");
 }
 .img2 {
-  background-image: url("https://source.unsplash.com/1600x900/?nature,water");
+  background-image: url("https://source.unsplash.com/weekly?water");
 }
 .img3 {
-  background-image: url("https://source.unsplash.com/1600x900/?nature,water");
+  background-image: url("https://source.unsplash.com/weekly?mountain");
 }
 .img4 {
-  background-image: url("https://source.unsplash.com/1600x900/?nature,water");
+  background-image: url("https://source.unsplash.com/weekly?city");
 }
 .img5 {
-  background-image: url("https://source.unsplash.com/1600x900/?nature,water");
+  background-image: url("https://source.unsplash.com/weekly?scyscraper");
 }
 .img6 {
-  background-image: url("https://source.unsplash.com/1600x900/?nature,water");
+  background-image: url("https://source.unsplash.com/weekly?dessert");
 }
 
 /* Position text in the middle of the page/image */
